@@ -1,4 +1,4 @@
-# FM-V2
+# Object Oriented Programming @MAU - FM V.2
 A Python project made with an intend to handle object oriented programming through creating new participants by using classes following the UML diagram.
 <br> <br> I chose to model a Football Manager knockoff game, which contains a football league (League) with football teams (Team), which all have 0-* players (Player) and 0-1 coach (Coach).
 
